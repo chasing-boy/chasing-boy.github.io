@@ -1,7 +1,9 @@
-# chasing-boy.github.io
+# 这是一级标题
 
-## hell哦
+## hello，我是二级标题
 
 ```
-  ddd
+  //我是代码块
+  inx x = 0;
+  int y =100;
 ```
